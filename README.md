@@ -119,6 +119,10 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+## ScreenShots
+#![Homepage](screenshots/Screenshot(61).png)
+
+
 ## 👨‍💻 Author  
 **Nilesh Balkhande**  
 
