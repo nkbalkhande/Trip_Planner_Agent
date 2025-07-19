@@ -120,8 +120,15 @@ streamlit run app.py
 ```
 
 ## ScreenShots
+![Homepage](screenshots/Screenshot(68).png) <br>
+![Homepage](screenshots/Screenshot(69).png) <br>
+![Homepage](screenshots/Screenshot(70).png) <br>
+![Homepage](screenshots/Screenshot(71).png) <br>
+![Homepage](screenshots/Screenshot(72).png) <br>
+![Homepage](screenshots/Screenshot(73).png) <br>
+![Homepage](screenshots/Screenshot(74).png) <br>
 
-
+---
 
 ## 👨‍💻 Author  
 **Nilesh Balkhande**  
