@@ -121,8 +121,7 @@ streamlit run app.py
 ## 👨‍💻 Author  
 **Nilesh Balkhande**  
 
-Computer Science Graduate | Data Science & AI Enthusiast  
-<br>  
+Computer Science Graduate | Data Science & AI Enthusiast  <br>  
 Reach me via [LinkedIn](https://www.linkedin.com/in/nilesh-balkhande-662283323/) or [GitHub](https://github.com/nkbalkhande)
 
 
