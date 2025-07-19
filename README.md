@@ -58,6 +58,7 @@ An intelligent, AI-powered travel planner built using **LangGraph**, **Streamlit
 | **LangGraph** | Modular agent workflow |
 | **LLMs (Groq/Gemini)** | For natural language itinerary and planning |
 | **Amadeus API** | Real-time flight data |
+| **Rapid's Hotel API** | Real-time hotel data |
 | **Streamlit** | Frontend user interface |
 | **Python** | Backend logic and LangGraph tools |
 | **.env** | API key management |
