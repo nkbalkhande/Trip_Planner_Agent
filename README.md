@@ -2,7 +2,7 @@
 
 An intelligent, AI-powered travel planner built using **LangGraph**, **Streamlit**, and **LLMs (Groq/Gemini)** that helps users:
 - Book flight tickets (with Amadeus API)
-- Suggest hotels
+- Get hotels details
 - Generate personalized multi-day itineraries
 - Provide local recommendations
 - Estimate daily and total trip budget
@@ -26,7 +26,7 @@ An intelligent, AI-powered travel planner built using **LangGraph**, **Streamlit
   - Departure Date
 
 ### 🏨 Hotel Suggestions
-- Recommends a hotel based on the destination
+- get a hotel details based on the destination using **RapidAPI's Hotel Search API**
 - Displays:
   - Hotel name
   - Price per night
